@@ -1,2 +1,2 @@
-# sesion7-tarea-individual
-sesion7-tarea-individual
+# Proyecto de integración
+Proyecto de intergración
